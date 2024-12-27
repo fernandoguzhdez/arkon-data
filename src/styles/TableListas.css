@@ -1,0 +1,24 @@
+.contenedor-table {
+    margin-top: 2rem;
+}
+
+.contenedor-table table tbody tr td button {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.boton-cerrar {
+    position: absolute; 
+    bottom: 55%; 
+    left: 94%
+}
+
+.titulo-canvas {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.contenedor-canvas {
+    height: auto !important;
+}
